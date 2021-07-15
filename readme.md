@@ -1,7 +1,7 @@
-# Basic Web Scaffold
-_Inspired by Trevor Sawler's_ [Building Modern Web Applications with Go](https://www.udemy.com/course/building-modern-web-applications-with-go/?referralCode=0415FB906223F10C6800).
+# Example B&B Bookings Website
+_Udemy course by Trevor Sawler_ [Building Modern Web Applications with Go](https://www.udemy.com/course/building-modern-web-applications-with-go/?referralCode=0415FB906223F10C6800).
 
-## Scaffold components
+## Server side Go, clients side JS
 [Chi Router](https://github.com/go-chi/chi)
 
 [CSRFHandler](https://github.com/justinas/nosurf) 
