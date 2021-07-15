@@ -1,8 +1,8 @@
 package main
 
 import (
-	"basic-web-scaffold/internal/config"
-	"basic-web-scaffold/internal/handlers"
+	"bookings/internal/config"
+	"bookings/internal/handlers"
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
 	"net/http"

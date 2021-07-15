@@ -1,9 +1,9 @@
 package handlers
 
 import (
-	"basic-web-scaffold/internal/config"
-	"basic-web-scaffold/internal/models"
-	"basic-web-scaffold/internal/render"
+	"bookings/internal/config"
+	"bookings/internal/models"
+	"bookings/internal/render"
 	"net/http"
 )
 

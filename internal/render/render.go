@@ -1,8 +1,8 @@
 package render
 
 import (
-	"basic-web-scaffold/internal/config"
-	"basic-web-scaffold/internal/models"
+	"bookings/internal/config"
+	"bookings/internal/models"
 	"bytes"
 	"fmt"
 	"html/template"
